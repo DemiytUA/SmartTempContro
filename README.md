@@ -1,1 +1,1 @@
-# SmartTempContro
+# SmartTempControl
