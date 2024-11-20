@@ -57,7 +57,7 @@ while True:
     try:
         # getting temperature value
         temp_c = read_temp()
-        print(f'Температура: {temp_c} °C')
+        print(f'Temperature: {temp_c} °C')
 
         if write_temp_to_list:
             temps.append(temp_c)
